@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)]
+![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 <h1 align="center">Hi 👋, I'm Radhe Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
 
