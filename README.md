@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)]
 <h1 align="center">Hi 👋, I'm Radhe Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -9,6 +9,10 @@
 - 🔭 I’m currently pursuing **B.E. Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Full Stack development**
+
+- 👨‍💻 FoodMania Project **https://hotel-food-mania.vercel.app/**
+
+- 👨‍💻 BlogMania Project **https://blogmania-kef3.onrender.com/**
 
 - 📫 How to reach me **radhe19patel@gmail.com**
 
