@@ -1,4 +1,6 @@
-![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="MasterHead" style="width:80%; heigth: 500px; max-width:600px;" />
+</p>
 <h1 align="center">Hi 👋, I'm Radhe Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
 
